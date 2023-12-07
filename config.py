@@ -1,0 +1,8 @@
+# config.py
+
+SERVER_ADDRESS = "127.0.0.1:8834"
+ACCESS_KEY = ""
+SECRET_KEY = ""
+OUTPUT_DIRECTORY = "./downloads"
+COMBINED_OUTPUT_DIRECTORY = "./combined"
+REPORT_OUTPUT_DIRECTORY = "./reports"
